@@ -1,0 +1,5 @@
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\Messaging\Messaging\bin\Debug\Messaging.dll
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\Messaging\Messaging\bin\Debug\Messaging.pdb
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\Messaging\Messaging\obj\Debug\Messaging.dll
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\Messaging\Messaging\obj\Debug\Messaging.pdb
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\Messaging\Messaging\obj\Debug\Messaging.csprojResolveAssemblyReference.cache
